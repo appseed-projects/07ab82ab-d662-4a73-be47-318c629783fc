@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "",
+    "db_user": "",
+    "dbms": "0",
+    "description": "generated product",
+    "design": "argon-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "07ab82ab-d662-4a73-be47-318c629783fc",
+    "task_info": "Upload Sources [0%] - 320 files",
+    "task_output": "07ab82ab-d662-4a73-be47-318c629783fc.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-03-18-19-29-08",
+    "task_ts_start": "2023-03-18-19-29-04"
+}
